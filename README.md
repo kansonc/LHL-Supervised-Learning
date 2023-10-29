@@ -18,13 +18,13 @@ based on certain diagnostic measurements included in the dataset.
 ### Understanding the variables 
 
 ### Assessing a correlation matrix to assess multicolinearity (interaction effect)
-!['Figure 1 Correlation Matrix of the Diabetes.csv'](./visualizations/"Figure 1 Correlation Matrix of the Diabetes.csv.png")
+!['Figure 1 Correlation Matrix of the Diabetes.csv'](./visualizations/Figure%201%20Correlation%20Matrix%20of%20the%20Diabetes.csv.png)
 
 ### Assessing histogram distributions
 !['Figure 2 Histograms of diabetes.csv'](./visualizations/"Figure 2 Histograms of diabetes.csv.png")
 
 ### Assessing histograms based on outcome (with or without diabetes)
-!['Figure 3 Histograms by outcome for diabetes.csv'](./visualizations/"Figure 3 Histograms by outcome for diabetes.csv.png")
+!['Figure 3 Histograms by outcome for diabetes.csv'](./visualizations/Figure%203%20Histograms%20by%20outcome%20for%20diabetes.csv.png)
 
 
 ## Part II : Preprocessing & Feature Engineering
@@ -32,7 +32,7 @@ based on certain diagnostic measurements included in the dataset.
 ### Handling missing values, where 273 values were imputed in the BMI, BloodPressure, and SkinThickness columns
 
 ### Handling Outliers
-![Figure 4 Boxplots showing outlier removal for diabetes.csv](./visualizations/"Figure 4 Boxplots showing outlier removal for diabetes.csv.png")
+![Figure 4 Boxplots showing outlier removal for diabetes.csv](./visualizations/Figure%204%20Boxplots%20showing%20outlier%20removal%20for%20diabetes.csv.png)
 
 ### Preprocessing Columns
 !['Preprocessing Pipeline'](./visualizations/preprocessing_pipeline.PNG)
@@ -67,7 +67,7 @@ accuracy, precision, recall, F1-score, and ROC-AUC
 
 # Results
 Given that we would want the highest recall score, I would be going with the Gradient Boost Model, which also has the highest F Score.  It is also closest to the top left of the ROC chart.
-!['ROC Curves'](./visualizations/"Figure 5 ROC Curves.PNG")
+!['ROC Curves'](./visualizations/Figure%205%20ROC%20Curves.PNG)
 
 # Conclusion
 1. Considering the Histograms, glucose showed the greatest amount of change between those with and those without diabetes.
