@@ -32,7 +32,7 @@ based on certain diagnostic measurements included in the dataset.
 ### Handling missing values, where 273 values were imputed in the BMI, BloodPressure, and SkinThickness columns
 
 ### Handling Outliers
-!['Figure 4 Boxplots showing outlier removal for diabetes.csv'](./visualizations/Figure 4 Boxplots showing outlier removal for diabetes.csv.png)
+![Figure 4 Boxplots showing outlier removal for diabetes.csv](./visualizations/Figure 4 Boxplots showing outlier removal for diabetes.csv.png)
 
 ### Preprocessing Columns
 !['Preprocessing Pipeline'](./visualizations/preprocessing_pipeline.PNG)
