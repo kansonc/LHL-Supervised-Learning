@@ -21,7 +21,7 @@ based on certain diagnostic measurements included in the dataset.
 !['Figure 1 Correlation Matrix of the Diabetes.csv'](./visualizations/Figure%201%20Correlation%20Matrix%20of%20the%20Diabetes.csv.png)
 
 ### Assessing histogram distributions
-!['Figure 2 Histograms of diabetes.csv'](./visualizations/"Figure 2 Histograms of diabetes.csv.png")
+!['Figure 2 Histograms of diabetes.csv'](./visualizations/"Figure%202%20Histograms%20of%20diabetes.csv.png)
 
 ### Assessing histograms based on outcome (with or without diabetes)
 !['Figure 3 Histograms by outcome for diabetes.csv'](./visualizations/Figure%203%20Histograms%20by%20outcome%20for%20diabetes.csv.png)
@@ -67,6 +67,8 @@ accuracy, precision, recall, F1-score, and ROC-AUC
 
 # Results
 Given that we would want the highest recall score, I would be going with the Gradient Boost Model, which also has the highest F Score.  It is also closest to the top left of the ROC chart.
+
+
 !['ROC Curves'](./visualizations/Figure%205%20ROC%20Curves.PNG)
 
 # Conclusion
