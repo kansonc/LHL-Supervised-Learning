@@ -67,7 +67,7 @@ accuracy, precision, recall, F1-score, and ROC-AUC
 
 # Results
 Given that we would want the highest recall score, I would be going with the Gradient Boost Model, which also has the highest F Score.  It is also closest to the top left of the ROC chart.
-!['ROC Curves'](./visualizations/Figure 5 ROC Curves.PNG)
+!['ROC Curves'](visualizations/Figure 5 ROC Curves.PNG)
 
 # Conclusion
 1. Considering the Histograms, glucose showed the greatest amount of change between those with and those without diabetes.
